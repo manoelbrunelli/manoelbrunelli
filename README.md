@@ -13,7 +13,7 @@ Oi, eu sou Manoel Brunelli
   <img align="center" alt="Manoel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Manoel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Manoel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Manoel-yoda"  src="https://64.media.tumblr.com/393429cd696d75cc51038f77ece6b17c/a733673bd1a83899-53/s540x810/25c88469674e26d352aaaa4e083dd1208ddec04f.gifv">
+  <img align="right" alt="Manoel-KNY" height="100" width="200"  src="https://64.media.tumblr.com/393429cd696d75cc51038f77ece6b17c/a733673bd1a83899-53/s540x810/25c88469674e26d352aaaa4e083dd1208ddec04f.gifv">
 </div>
 
 ##
